@@ -1,0 +1,8 @@
+Prio: Urgent
+
+Name: Unknown
+
+Submitted: 2026-04-15T13:29:43.394-04:00
+
+Description:
+User reported that Windows 11 is not working and requested human assistance.
