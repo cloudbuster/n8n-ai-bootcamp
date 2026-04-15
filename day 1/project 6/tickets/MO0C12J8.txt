@@ -1,0 +1,8 @@
+Prio: Urgent
+
+Name: Mikko
+
+Submitted: 2026-04-15T13:36:36.189-04:00
+
+Description:
+User Mikko is experiencing an issue where Microsoft Word is not opening files.
